@@ -1,6 +1,6 @@
 {
-  "id": "mermaid-zoom",
-  "name": "Mermaid Zoom",
+  "id": "orbit-mermaid-zoom",
+  "name": "Orbit Mermaid Zoom",
   "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "description": "Zoom, pan and navigate Mermaid diagrams with a popup overlay.",
